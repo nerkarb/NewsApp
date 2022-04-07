@@ -5,6 +5,8 @@ import Spinner from "./Spinner";
 
 import InfiniteScroll from "react-infinite-scroll-component";
 
+
+
 import PropTypes from "prop-types";
 
 export default class News extends Component {
@@ -42,18 +44,21 @@ export default class News extends Component {
   }
   //
   async updateNews() {
+    this.props.setProgress(10)
     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fb011adae2f24349870510899aa351b7&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     console.log(url);
 
     this.setState({ loading: true });
     let data = await fetch(url);
     let parseData = await data.json();
+    this.props.setProgress(50)
     console.log(parseData);
     this.setState({
       articles: parseData.articles,
       totalResults: parseData.totalResults,
       loading: false,
     });
+    this.props.setProgress(100)
   }
   //component did mout lifwcyle method
   async componentDidMount() {
@@ -117,6 +122,7 @@ export default class News extends Component {
 
   //fetch more function
   fetchMoreData = async () => {
+    
    this.setState({page:this.state.page +1 })
    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fb011adae2f24349870510899aa351b7&page=${this.state.page}&pageSize=${this.props.pageSize}`;
    console.log(url);
@@ -130,8 +136,11 @@ export default class News extends Component {
      totalResults: parseData.totalResults,
      loading: false,
    });
+ 
    
   };
+  //top bar
+ 
   render() {
     let { category } = this.props;
     return (
