@@ -3,6 +3,8 @@ import { findRenderedDOMComponentWithClass } from "react-dom/test-utils";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
 
+import InfiniteScroll from "react-infinite-scroll-component";
+
 import PropTypes from "prop-types";
 
 export default class News extends Component {
@@ -30,8 +32,9 @@ export default class News extends Component {
       // "status": "ok",
       //"totalResults": 3,
       articles: this.articles,
-      loading: false,
+      loading: true,
       page: 1,
+      totalResults: 0
       //category : this.props.category
     };
     //console.log(capitalizeFirstLetter("bhushan"))
@@ -111,6 +114,24 @@ export default class News extends Component {
     this.setState({ page: this.state.page + 1 });
     this.updateNews();
   };
+
+  //fetch more function
+  fetchMoreData = async () => {
+   this.setState({page:this.state.page +1 })
+   let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fb011adae2f24349870510899aa351b7&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+   console.log(url);
+
+  
+   let data = await fetch(url);
+   let parseData = await data.json();
+   console.log(parseData);
+   this.setState({
+     articles: this.state.articles.concat(parseData.articles),
+     totalResults: parseData.totalResults,
+     loading: false,
+   });
+   
+  };
   render() {
     let { category } = this.props;
     return (
@@ -121,6 +142,14 @@ export default class News extends Component {
         {/* SPinner component */}
         {this.state.loading && <Spinner />}
 
+        {/* //infine scroll */}
+        <InfiniteScroll
+          dataLength={this.state.articles.length}
+          next={this.fetchMoreData}
+          hasMore={this.state.articles.length !== this.state.totalResults}
+          loader={<Spinner />}
+        >
+        <div className="container">
         <div className="row my-3">
           {this.state.articles.map((element) => {
             return (
@@ -139,7 +168,10 @@ export default class News extends Component {
               </div>
             );
           })}
-          <div className="container d-flex justify-content-between">
+          </div>
+          </div>
+          </InfiniteScroll>
+          {/* <div className="container d-flex justify-content-between">
             <button
               disabled={this.state.page <= 1}
               type="button"
@@ -160,9 +192,10 @@ export default class News extends Component {
             >
               Next &rarr;
             </button>
-          </div>
+          </div> */}
         </div>
-      </div>
+        
+      
     );
   }
 }
