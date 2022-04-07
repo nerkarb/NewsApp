@@ -1,266 +1,36 @@
 {
-    "status": "ok",
-    "totalResults": 409,
-    "articles": [
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
     {
-    "source": {
-    "id": null,
-    "name": "The Guardian"
-    },
-    "author": "Eliza Brooke",
-    "title": "Shrinking the Gap: how the clothing brand lost its way",
-    "description": "Gap’s clothes defined an era, but it has been steadily declining for years. Can a collaboration with Kanye West revive its fortunes – or is it just another sign of a brand flailing around for an identity? Bring to mind, if you will, Gap’s classic logo hoodie.…",
-    "url": "https://amp.theguardian.com/fashion/2022/apr/05/gap-how-the-clothing-brand-lost-its-way-fashion-retail",
-    "urlToImage": "https://i.guim.co.uk/img/media/d0ee88da32a37fa4cf10dfb8f9ac8b55362eabce/1_0_4440_2665/master/4440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d787b954cbbad52ea24b91752b211269",
-    "publishedAt": "2022-04-05T05:00:05Z",
-    "content": "Bring to mind, if you will, Gaps classic logo hoodie. You know the one: three bold letters arranged in an arch across the chest. It was everywhere in the 1990s and 00s, sold in a rainbow of saturated… [+27716 chars]"
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Shane Warne memorial - watch & follow updates",
+      "description": "Watch live coverage and follow text updates and tributes from the state memorial for Australian cricket legend Shane Warne at the Melbourne Cricket Ground.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/60916236",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+      "publishedAt": "2022-03-30T08:22:26.498888Z",
+      "content": "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "MarketBeat"
-    },
-    "author": "MarketBeat Staff",
-    "title": "MarketBeat Podcast: BAD investments: Betting, Alcohol and Drug Stocks",
-    "description": "This week on The MarketBeat Podcast, Kate’s guest is Tommy Mancuso, Founder of the BAD Investment Company.​ The B.A.D. ETF (BAD) is a large-cap fund designed to track the EQM...",
-    "url": "https://www.marketbeat.com/originals/marketbeat-podcast-bad-investments-betting-alcohol-and-drug-stocks/",
-    "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423904.jpeg",
-    "publishedAt": "2022-04-05T08:00:00Z",
-    "content": "This week on The MarketBeat Podcast, Kates guest is Tommy Mancuso, Founder of the BAD Investment Company.\r\nMarketBeat.com - MarketBeat\r\nThe B.A.D. ETF (BAD) is a large-cap fund designed to track the … [+1648 chars]"
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Gigazine.net"
-    },
-    "author": "@GIGAZINE",
-    "title": "詐欺対策専門家は詐欺電話を受けたときどう対応したか？",
-    "description": "セキュリティやソーシャルエンジニアリングに詳しい人は「自分が詐欺でだまされるわけがない」と考えているはずですが、実際にはそんなことはなくあっさりだまされてしまうものであることを、ソーシャルエンジニアリングに詳しいというナターシャ・Lさんが自らの体験をもとに明らかにしています。続きを読む...",
-    "url": "https://gigazine.net/news/20220405-scam-prevention-expert-got-scammed/",
-    "urlToImage": "https://i.gzn.jp/img/2022/04/05/scam-prevention-expert-got-scammed/00_m.jpg",
-    "publishedAt": "2022-04-05T08:50:00Z",
-    "content": "As much as we like to pretend otherwise, infosec professionals are as vulnerable to scammers and social engineering as anyone else. Here's a story about the most sophisticated Wells Fargo/Apple Pay s… [+109 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Filipe Espósito",
-    "title": "Hulu update adds SharePlay support for iPhone and iPad users",
-    "description": "The popular Disney-owned streaming service Hulu released a long-awaited update to its iOS app on Monday. The platform now supports SharePlay for iPhone and iPad users, so they can watch content together with others via FaceTime.\n more…\nThe post Hulu update ad…",
-    "url": "https://9to5mac.com/2022/04/04/hulu-update-adds-shareplay-support-for-iphone-and-ipad-users/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/Hulu.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2022-04-05T00:46:09Z",
-    "content": "The popular Disney-owned streaming service Hulu released a long-awaited update to its iOS app on Monday. The platform now supports SharePlay for iPhone and iPad users, so they can watch content toget… [+1251 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The Guardian"
-    },
-    "author": "Maya Yang in New York",
-    "title": "‘Loud. Proud. Still allowed’: New York’s mayor urges LGBTQ+ Floridians to move to city",
-    "description": "Eric Adams launches Florida ad campaign denouncing state’s ‘don’t say gay’ legislationThe mayor of New York City, Eric Adams, has launched a digital campaign designed to persuade members of Florida’s LGBTQ+ community to move to the Big Apple, after their stat…",
-    "url": "https://amp.theguardian.com/us-news/2022/apr/04/dont-say-gay-florida-new-york-eric-adams",
-    "urlToImage": "https://i.guim.co.uk/img/media/9c8668731ae79fb8bdb4668af302f78c3fbd67af/0_157_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3d7ec7120f34db9341403530c7366b5",
-    "publishedAt": "2022-04-05T04:00:04Z",
-    "content": "The mayor of New York City, Eric Adams, has launched a digital campaign designed to persuade members of Floridas LGBTQ+ community to move to the Big Apple, after their state passed a so-called dont s… [+2972 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (Christine McKee)",
-    "title": "Amazon deal alert: Apple's 14-inch MacBook Pro drops to $1,799 (up to $250 off)",
-    "description": "Amazon's best 14-inch MacBook Pro deal has returned, with the standard model dipping to $1,799 and the upgraded 1TB config now $250 off.Apple's 14-inch MacBook Pro is discounted substantially at AmazonApril MacBook Pro sale Read more...",
-    "url": "https://appleinsider.com/articles/22/04/05/amazon-deal-alert-apples-14-inch-macbook-pro-drops-to-1799-up-to-250-off",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/47777-93339-macbook-pro-sale-2022-xl.jpg",
-    "publishedAt": "2022-04-05T05:58:56Z",
-    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+918 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Elespanol.com"
-    },
-    "author": null,
-    "title": "El audio espacial 360º llega a los auriculares Samsung Galaxy Buds 2",
-    "description": "Samsung ha actualizado sus auriculares de gama media Samsung Galaxy Buds 2 con el audio espacial que ya teníamos en el modelo Pro.",
-    "url": "https://www.elespanol.com/elandroidelibre/moviles-android/accesorios/20220405/audio-espacial-llega-auriculares-samsung-galaxy-buds/662683772_0.html",
-    "urlToImage": "https://s1.eestatic.com/2021/09/21/elandroidelibre/moviles-android/analisis/613700924_223267139_600x315.jpg",
-    "publishedAt": "2022-04-05T08:12:17Z",
-    "content": "Noticias relacionadas\r\nSamsung es una de las compañías que mejor ecosistema de productos tiene. Esto se ve por ejemplo en el comportamiento de sus auriculares cuando los usamos con las tablets y móvi… [+1976 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.jp"
-    },
-    "author": "そうこ",
-    "title": "仕事でも使いたいんだけど…スマートウォッチ買うならどれがいいの？",
-    "description": "サムスンユーザーのために、今買うべきおすすめのスマートウォッチを米Gizmodo記者が指南。",
-    "url": "https://www.gizmodo.jp/2022/04/which-smartwatch-should-i-buy-now.html",
-    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/04/04/220404whatsmatwatchtobuy-w960.jpg",
-    "publishedAt": "2022-04-05T04:00:00Z",
-    "content": "GizmodoMacGizmodo\r\nApple Watch\r\nApple WatchSamsungGalaxy S21GooglePixelApple Watch\r\nGalaxy Watch 4 \r\nGalaxy Watch 4Watch 4 ClassicGizmodoGalaxy Watch 4AndroidPixel Watch\r\nOSWear OSApple WatchWatch 4G… [+252 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Journal du geek"
-    },
-    "author": "Redac JDG",
-    "title": "Le MacBook Air M1 est à prix irrésistible aujourd’hui",
-    "description": "Le MacBook Air 2020 vous fait de l'œil ? Si vous envisagez d'acheter l'ordinateur portable d'Apple équipé de la puce M1, c'est clairement le bon moment pour le faire puisqu'il est en promotion du coté d'Amazon et Cdiscount. \nLe MacBook Air M1 est à prix irrés…",
-    "url": "https://www.journaldugeek.com/bon-plan/le-macbook-air-m1-est-a-prix-irresistible-aujourdhui/",
-    "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/04/macbook-air-m1-apple.jpg",
-    "publishedAt": "2022-04-05T07:28:58Z",
-    "content": "Le MacBook Air 2020 vous fait de l'il ? Si vous envisagez d'acheter l'ordinateur portable d'Apple équipé de la puce M1, c'est clairement le bon moment pour le faire puisqu'il est en promotion du coté… [+3659 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Journal du geek"
-    },
-    "author": "Redac JDG",
-    "title": "Officiel : ING ferme, Boursorama Banque récupère sa base clients",
-    "description": "Suite à la décision d’ING de quitter le marché de la banque de détail en France, Boursorama Banque se porte officiellement acquéreur des comptes clients de l'établissement. Dans les prochains jours, les deux banques proposeront aux clients ING une transition …",
-    "url": "https://www.journaldugeek.com/2022/04/05/officiel-ing-ferme-boursorama-banque-recupere-sa-base-clients/",
-    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/03/cartemetal-boursorama.jpg",
-    "publishedAt": "2022-04-05T07:05:40Z",
-    "content": "Suite à la décision dING de quitter le marché de la banque de détail en France, Boursorama Banque se porte officiellement acquéreur des comptes clients de l'établissement. Dans les prochains jours, l… [+4688 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Theregister.com"
-    },
-    "author": "Simon Sharwood",
-    "title": "Epic Games' court dates with Apple and Google pushed into 2024",
-    "description": "Judge ponders battle royale between all three to avoid unhelpful overlaps\nProceedings in the legal dispute between Epic Games and Apple have bogged down in Australia, and won't reach a courtroom until 2024.…",
-    "url": "https://www.theregister.com/2022/04/05/epic_vs_apple_vs_google_australia_delays/",
-    "urlToImage": "https://regmedia.co.uk/2022/04/05/shutterstock_fortnite_battle_royale_editorial_only.jpg",
-    "publishedAt": "2022-04-05T07:58:07Z",
-    "content": "Proceedings in the legal dispute between Epic Games and Apple have bogged down in Australia, and won't reach a courtroom until 2024.\r\nA Monday ruling of the nation's Federal Court decided that, as Go… [+4531 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Jesús Quesada",
-    "title": "Los cinco chollos más suculentos de Apple en el Outlet de MediaMarkt",
-    "description": "Si no teníamos suficiente con las ofertas en iPhone 13, AirPods y más dispositivos de la manzana mordida en el Aniversario Web de MediaMarkt, en su outlet de eBay.es podemos encontrar más rebajas en productos Apple con envío rápido gratis. Estos son los cinco…",
-    "url": "https://www.applesfera.com/seleccion/cinco-chollos-suculentos-apple-outlet-mediamarkt",
-    "urlToImage": "https://i.blogs.es/22906d/ofertas-apple/840_560.jpg",
-    "publishedAt": "2022-04-05T05:42:39Z",
-    "content": "Si no teníamos suficiente con las ofertas en iPhone 13, AirPods y más dispositivos de la manzana mordida en el Aniversario Web de MediaMarkt, en su outlet de eBay.es podemos encontrar más rebajas en … [+2845 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "David Bernal Raspall",
-    "title": "El doble de brillo y en todo el sistema: Vivid nos permite alcanzar los 1600 nits con un simple atajo de teclado",
-    "description": "Las pantallas de los MacBook Pro de 14 y 16 pulgadas, así como la Pro Display XDR, pueden alcanzar 1600 nits de brillo. Un brillo que alcanzan, sin embargo, solamente cuando estamos reproduciendo vídeos en formato HDR. Algo que podemos cambiar con la instalac…",
-    "url": "https://www.applesfera.com/aplicaciones-os-x-1/doble-brillo-todo-sistema-vivid-nos-permite-alcanzar-1600-nits-simple-atajo-teclado",
-    "urlToImage": "https://i.blogs.es/e77685/vivid_image_mac_461_9762/840_560.jpeg",
-    "publishedAt": "2022-04-05T06:54:09Z",
-    "content": "Las pantallas de los MacBook Pro de 14 y 16 pulgadas, así como la Pro Display XDR, pueden alcanzar 1600 nits de brillo. Un brillo que alcanzan, sin embargo, solamente cuando estamos reproduciendo víd… [+1562 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Jesús Quesada",
-    "title": "Con esta cámara HomeKit 360º a 39,99 euros puedes sentirte más seguro dejando la casa en Semana Santa",
-    "description": "La Semana Santa está a la vuelta de la esquina y muchas personas aprovechan los días festivos para viajar. Instalando una cámara como la eufy Indoor Cam 2K 360º podrás controlar lo que sucede en casa y estar más tranquilo. Está de oferta en Amazon a 39,99 eur…",
-    "url": "https://www.applesfera.com/seleccion/esta-camara-homekit-360o-a-39-99-euros-puedes-sentirte-seguro-dejando-casa-semana-santa",
-    "urlToImage": "https://i.blogs.es/a84781/camara-eufy/840_560.jpg",
-    "publishedAt": "2022-04-05T08:02:56Z",
-    "content": "La Semana Santa está a la vuelta de la esquina y muchas personas aprovechan los días festivos para viajar. Instalando una cámara como la eufy Indoor Cam 2K 360º podrás controlar lo que sucede en casa… [+2073 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Eduardo Archanco",
-    "title": "Deshazte de todas las apps innecesarias que trae tu iPhone nuevo ganando hasta cuatro 'gigabytes' de espacio libre",
-    "description": "El iPhone tiene casi cincuenta apps instaladas de serie en iOS 15. Puedes eliminarlas todas de tu pantalla de inicio, aunque la mayoría de ellas simplemente se ocultan y permanecen en tu dispositivo para no suprimir funcionalidades. Hay unas pocas que sí pued…",
-    "url": "https://www.applesfera.com/tutoriales/deshazte-todas-apps-innecesarias-que-trae-tu-iphone-nuevo-ganando-cuatro-gigabytes-espacio-libre",
-    "urlToImage": "https://i.blogs.es/3d172a/1366_2000/840_560.jpeg",
-    "publishedAt": "2022-04-05T07:01:57Z",
-    "content": "El iPhone tiene casi cincuenta apps instaladas de serie en iOS 15. Puedes eliminarlas todas de tu pantalla de inicio, aunque la mayoría de ellas simplemente se ocultan y permanecen en tu dispositivo … [+2589 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Presse-citron"
-    },
-    "author": "Stéphane Ficca",
-    "title": "On a essayé Qobuz : faut-il vous désabonner de Spotify ?",
-    "description": "En ce début d'année 2022, on a testé Qobuz, l'offre streaming Hi-Res \"à la Française\".",
-    "url": "https://www.presse-citron.net/on-a-essaye-qobuz-faut-il-vous-desabonner-de-spotify/",
-    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/04/Qobus-musique-1.jpg",
-    "publishedAt": "2022-04-05T07:30:25Z",
-    "content": "Si le marché de la vidéo en streaming est loin de se cantonner uniquement à Netflix, celui du streaming audio est lui aussi loin de se limiter à l’ogre Spotify. Quand bien même le géant scandinave va… [+6231 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Presse-citron"
-    },
-    "author": "Hadrien Augusto",
-    "title": "ING donne les clés à Boursorama Banque (320 € offerts à chaque client)",
-    "description": "ING signe un partenariat avec la première banque en ligne française.",
-    "url": "https://www.presse-citron.net/ing-donne-les-cles-a-boursorama-banque-320-e-offerts-a-chaque-client/",
-    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/04/Boursorama-ING-clients.jpg",
-    "publishedAt": "2022-04-05T07:02:04Z",
-    "content": "Le dénouement de laffaire des comptes ING français vient de tomber. Finalement, Boursorama Banque a bel et bien remporté la victoire dans les négociations. Le portefeuille de clients de la filiale fr… [+3668 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Golem.de"
-    },
-    "author": "Oliver Nickel",
-    "title": "MacOS: App verdoppelt die Helligkeit des Macbook Pro 16",
-    "description": "Mit Vivid können Apples Pro Display XDR und Macbook Pro 16 1.000 statt 500 cd/m² anzeigen. Das ist bisher nur stellenweise möglich. (Macbook, Apple)",
-    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fmacos-app-verdoppelt-die-helligkeit-des-macbook-pro-16-2204-164395-rss.html&referer=https%3A%2F%2Ft.co%2F846aa1b50e",
-    "urlToImage": null,
-    "publishedAt": "2022-04-05T08:30:02Z",
-    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The A.V. Club"
-    },
-    "author": "Sam Barsanti",
-    "title": "Jason Momoa to write and star in Apple TV Plus series about the colonization of Hawaii",
-    "description": "Apple has a made a point to build the offerings of its Apple TV+ streaming service around big-name creators and potentially exciting and Important (with a capital “I”) projects—quality over quantity, at least in theory. Its latest exciting and possibly Import…",
-    "url": "https://www.avclub.com/jason-momoa-colonization-hawaii-apple-tv-plus-1848749309",
-    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/16f0007eb7354e3290d666b654d325e3.jpg",
-    "publishedAt": "2022-04-05T02:49:00Z",
-    "content": "Apple has a made a point to build the offerings of its Apple TV+ streaming service around big-name creators and potentially exciting and Important (with a capital I) projectsquality over quantity, at… [+1516 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "HYPEBEAST"
-    },
-    "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
-    "title": "Jason Momoa to Star in New Hawaiian History Apple Drama Series, 'Chief of War'",
-    "description": "Jason Momoa is slated to star in, write and executive produce an upcoming Apple TV+ drama series titled Chief of War.According to Variety, the series focuses on a portion of history that \"follows the story of the unification and colonization of Hawaii.\" The s…",
-    "url": "https://hypebeast.com/2022/4/jason-momoa-star-write-new-hawaiian-history-apple-drama-series-chief-of-war",
-    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F04%2Fjason-momoa-star-write-new-hawaiian-history-apple-drama-series-chief-of-war-tw.jpg?w=960&cbr=1&q=90&fit=max",
-    "publishedAt": "2022-04-05T03:27:49Z",
-    "content": "Jason Momoa is slated to star in, write and executive produce an upcoming Apple TV+ drama series titled Chief of War.\r\nAccording to Variety, the series focuses on a portion of history that “follows t… [+757 chars]"
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
     }
-    ]
-    }
+  ]
+}
